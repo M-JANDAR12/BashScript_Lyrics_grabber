@@ -1,5 +1,7 @@
 # Lyrics_grabber
 
+by [M-JANDAR12](https://github.com/M-JANDAR12)
+
 This is a script writen in bash_script that will get lyrics of songs or playlists from youtube link
 
 ## Options
@@ -21,3 +23,9 @@ This is a script writen in bash_script that will get lyrics of songs or playlist
     ```
 
     *Note that: don't but a large playlist beacuse the lyrics website will block your IP or use proxy
+
+## Dependencies
+
+- youtube-dl
+- jq
+- wget
