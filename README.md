@@ -1,6 +1,6 @@
 # Lyrics_grabber
 
-This is a script writen in bash_script that will get lyrics of song or playlist from youtube link
+This is a script writen in bash_script that will get lyrics of songs or playlists from youtube link
 
 ## Options
 
